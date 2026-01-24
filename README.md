@@ -1,2 +1,25 @@
-# Hospital-Database-System-KFSH
-Designed and implemented a relational database system for King Faisal Specialist Hospital as part of IT222 course at King Saud University.  The system manages patients, doctors, clinics, appointments, and receptionist workflow using EER modeling, SQL, and Oracle APEX.
+# Hospital Database System – King Faisal Specialist Hospital
+
+A relational database system developed as part of the IT222 (Database Principles) course at King Saud University.
+
+## Project Overview
+This project provides a database system for King Faisal Specialist Hospital to manage:
+- Patients information  
+- Doctors schedules  
+- Clinics  
+- Appointments  
+- Receptionist staff  
+
+The system aims to improve hospital workflow and appointment management.
+
+## Main Features
+- EER-based database design
+- Relational schema with normalization
+- Data dictionary for all entities and attributes
+- SQL queries for hospital operations
+- Oracle APEX receptionist interface
+
+## Technologies
+- Oracle SQL
+- Oracle APEX
+- Database Modeling (EER)
